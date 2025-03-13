@@ -3,9 +3,13 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Abhishek Negi. I'm a passionate Full Stack Web Developer :computer:<br>
   <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
  </abc>
 </h2> 
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: I'm a passionate Fullstack Developer
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 <h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -19,8 +23,9 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhi-negii7&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhi-negii7&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhi-negii7&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-- :computer: I'm a passionate Fullstack Developer
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
